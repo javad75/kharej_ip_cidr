@@ -8,7 +8,13 @@ urls = [
     "https://www.cloudflare.com/ips-v4",
     "https://raw.githubusercontent.com/HybridNetworks/whatsapp-cidr/main/WhatsApp/whatsapp_cidr_ipv4.netset",
     "https://api.fastly.com/public-ip-list",
-    "https://api.gcore.com/cdn/public-ip-list"
+    "https://api.gcore.com/cdn/public-ip-list",
+    "https://raw.githubusercontent.com/SM443/IP-Prefix-List/main/AWS_CLOUDFRONT/only_ip_blocks.txt",
+    "https://raw.githubusercontent.com/SM443/IP-Prefix-List/main/AWS_EC2/only_ip_blocks.txt",
+    "https://raw.githubusercontent.com/SM443/IP-Prefix-List/main/AWS_S3/only_ip_blocks.txt",
+    "https://raw.githubusercontent.com/SM443/IP-Prefix-List/main/GOOGLE/only_ip_blocks.txt",
+    "https://raw.githubusercontent.com/SM443/IP-Prefix-List/main/GOOGLE_CLOUD/only_ip_blocks.txt",
+    "https://raw.githubusercontent.com/SM443/IP-Prefix-List/main/MICROSOFT/only_ip_blocks.txt"
 ]
 
 # Set to store all unique IP CIDR ranges
