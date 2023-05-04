@@ -6,9 +6,7 @@ urls = [
     "https://raw.githubusercontent.com/lord-alfred/ipranges/main/all/ipv4_merged.txt",
     "https://core.telegram.org/resources/cidr.txt",
     "https://www.cloudflare.com/ips-v4",
-    "https://raw.githubusercontent.com/HybridNetworks/whatsapp-cidr/main/WhatsApp/whatsapp_cidr_ipv4.netset",
-    "https://api.fastly.com/public-ip-list",
-    "https://api.gcore.com/cdn/public-ip-list"
+    "https://raw.githubusercontent.com/HybridNetworks/whatsapp-cidr/main/WhatsApp/whatsapp_cidr_ipv4.netset"
 ]
 
 # Set to store all unique IP CIDR ranges
